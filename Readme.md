@@ -1,4 +1,5 @@
-# Titanic Survival Prediction
+#Kaggle Competition - Titanic Survival Prediction
+<img width="472" alt="image" src="https://github.com/user-attachments/assets/410a37ca-9d68-442c-9495-a0216a91fb5d" />
 
 This project focuses on predicting passenger survival from the Titanic disaster using data from a Kaggle challenge. The objective was to build a model that predicts which types of passengers were more likely to survive based on features like age, gender, and socio-economic class.
 
